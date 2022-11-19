@@ -1,0 +1,21 @@
+.overlay-create-btn {
+    padding: 20px;
+    background-color: rgb(218, 191, 243);
+}
+
+.overlay-destroy-btn {
+    padding: 20px;
+    background-color: rgb(243, 191, 198);
+}
+
+body {
+    background-color: black;
+}
+
+p, h1 {
+    color: white;
+}
+
+.credits {
+    color: rgb(66, 0, 128);
+}
